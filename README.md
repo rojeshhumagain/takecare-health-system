@@ -24,23 +24,23 @@ It also includes a **complete Admin Dashboard** for managing doctors, blogs, not
 ## 🖼 Demo Screenshots
 
 <p align="center">
-  <img src="takecare-health-system/demoimage/1.jpg" width="720">
+  <img src="takecare-health-system/demoimage/1.png" width="720">
   <br><br>
-  <img src="takecare-health-system/demoimage/2.jpg" width="720">
+  <img src="takecare-health-system/demoimage/2.png" width="720">
   <br><br>
-  <img src="takecare-health-system/demoimage/3.jpg" width="720">
+  <img src="takecare-health-system/demoimage/3.png" width="720">
   <br><br>
- <img src="takecare-health-system/demoimage/4.jpg" width="720">
+ <img src="takecare-health-system/demoimage/4.png" width="720">
   <br><br>
-  <img src="takecare-health-system/demoimage/5.jpg" width="720">
+  <img src="takecare-health-system/demoimage/5.png" width="720">
   <br><br>
-  <img src="takecare-health-system/demoimage/6.jpg" width="720">
+  <img src="takecare-health-system/demoimage/6.png" width="720">
   <br><br>
-  <img src="takecare-health-system/demoimage/7.jpg" width="720">
+  <img src="takecare-health-system/demoimage/7.png" width="720">
   <br><br>
-  <img src="takecare-health-system/demoimage/8.jpg" width="720">
+  <img src="takecare-health-system/demoimage/8.png" width="720">
   <br><br>
-  <img src="takecare-health-system/demoimage/9.jpg" width="720">
+  <img src="takecare-health-system/demoimage/9.png" width="720">
   <br><br>
 </p>
 
