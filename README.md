@@ -26,21 +26,21 @@ It also includes a **complete Admin Dashboard** for managing doctors, blogs, not
 <p align="center">
   <img src="demoimage/1.png" width="720">
   <br><br>
-  <img src="takecare-health-system/demoimage/2.png" width="720">
+  <img src="demoimage/2.png" width="720">
   <br><br>
-  <img src="takecare-health-system/demoimage/3.png" width="720">
+  <img src="demoimage/3.png" width="720">
   <br><br>
- <img src="takecare-health-system/demoimage/4.png" width="720">
+ <img src="demoimage/4.png" width="720">
   <br><br>
-  <img src="takecare-health-system/demoimage/5.png" width="720">
+  <img src="demoimage/5.png" width="720">
   <br><br>
-  <img src="takecare-health-system/demoimage/6.png" width="720">
+  <img src="demoimage/6.png" width="720">
   <br><br>
-  <img src="takecare-health-system/demoimage/7.png" width="720">
+  <img src="demoimage/7.png" width="720">
   <br><br>
-  <img src="takecare-health-system/demoimage/8.png" width="720">
+  <img src="demoimage/8.png" width="720">
   <br><br>
-  <img src="takecare-health-system/demoimage/9.png" width="720">
+  <img src="demoimage/9.png" width="720">
   <br><br>
 </p>
 
