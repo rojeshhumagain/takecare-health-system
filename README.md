@@ -24,7 +24,7 @@ It also includes a **complete Admin Dashboard** for managing doctors, blogs, not
 ## 🖼 Demo Screenshots
 
 <p align="center">
-  <img src="takecare-health-system/demoimage/1.png" width="720">
+  <img src="demoimage/1.png" width="720">
   <br><br>
   <img src="takecare-health-system/demoimage/2.png" width="720">
   <br><br>
